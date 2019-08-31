@@ -13,6 +13,5 @@ function fizzBuzz(list1, list2) {
     }
 };
 
-// fizzBuzz(,list2);
 
 module.exports = fizzBuzz;
